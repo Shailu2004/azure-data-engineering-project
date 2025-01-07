@@ -10,6 +10,8 @@ This project is centered around ingesting, transforming, and visualizing the **2
 1. **Dynamic Data Ingestion**:  
    - Pulled data using APIs with Azure Data Factory's dynamic pipelines.
    - Configured parameterized datasets and loops for efficient ingestion.
+   - ![Screenshot (125)](https://github.com/user-attachments/assets/7c100c11-97e9-4d0b-a9f0-3030d6c5d6e4)
+
 
 2. **Data Transformation**:  
    - Processed data in Databricks using PySpark.  
